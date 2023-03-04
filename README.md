@@ -23,3 +23,5 @@ It's too complex to clearly tell why this happens.
 Shortly, it's related to DefWindowProc and some special messages.
 
 ### You can check `Example.cpp` to learn the whole thing.
+
+[Chinese Blog (CSDN)](https://blog.csdn.net/MysteryWorldGod/article/details/129335988)
