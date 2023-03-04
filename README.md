@@ -1,5 +1,5 @@
-# Probable-Solution-to-Win32-DefWindowProc-Blokcing
-Probable Solution to Win32 DefWindowProc Blokcing
+# Probable-Solution-to-Win32-DefWindowProc-Blocking
+Probable Solution to Win32 DefWindowProc Blocking
 
 When we code for win32 app, if we use idle process in message pump like this
 ```cpp
