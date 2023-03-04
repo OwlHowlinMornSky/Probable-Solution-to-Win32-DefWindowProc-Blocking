@@ -13,7 +13,7 @@ while (true) {
         else break;
     }
     else {
-        IdleProcess(false);
+        IdleProcess();
     }
 }
 ```
